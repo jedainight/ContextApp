@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\John\\AndroidStudioProjects\\ContextApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\umbrella.png",
+        "source": "C:\\Users\\John\\AndroidStudioProjects\\ContextApp\\app\\src\\main\\res\\drawable-hdpi\\umbrella.png"
+    },
+    {
+        "merged": "C:\\Users\\John\\AndroidStudioProjects\\ContextApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\John\\AndroidStudioProjects\\ContextApp\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
